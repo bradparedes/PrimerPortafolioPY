@@ -206,6 +206,9 @@ Diseñar y gestionar el flujo de un juego interactivo.
 👾 Contribuciones
 ¡Las sugerencias son bienvenidas! Si tienes ideas para mejorar el juego o añadir nuevas características, abre un Pull Request o reporta problemas en Issues.
 
+📌 Sobre Mí
+¡Hola! Soy Brad, un programador en formación. Este proyecto es parte de mi portafolio y refleja mis primeros pasos en el desarrollo de aplicaciones interactivas. ¡Gracias por visitar este repositorio! 🚀
 
-Contacto
+Este archivo README no solo presenta el proyecto de manera profesional, sino que también ofrece un vistazo claro a su funcionalidad. Si necesitas más ayuda, aquí estoy. 😊✨
+
 Bradley Presley Castañeda Paredes [GitHub] (https://github.com/bradparedes) [Linkedin] (https://linkedin.com/in/bradley-castañeda-1577b5236)
