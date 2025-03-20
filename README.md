@@ -201,6 +201,10 @@ Cómo estructurar juegos simples utilizando Python.
 
 A capturar eventos del usuario (clics) y reflejarlos en la interfaz gráfica.
 
+
+
+
+Bradley Presley Castañeda Paredes [GitHub] (https://github.com/bradparedes) [Linkedin] (https://linkedin.com/in/bradley-castañeda-1577b5236)
 Diseñar y gestionar el flujo de un juego interactivo.
 
 👾 Contribuciones
