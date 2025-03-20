@@ -20,10 +20,12 @@ Sigue estos pasos para ejecutar el juego en tu máquina local:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/bradparedes/PrimerPortafolioPY.git
+   ```
 
 Navega a la carpeta del proyecto:
-    ```bash
+    ```
     cd PrimerPortafolioPY/SnakeGame
+    ```
 Asegúrate de tener Python instalado (versión 3.6 o superior).
 
 Ejecuta el archivo principal:
@@ -87,7 +89,7 @@ Asegúrate de tener Python instalado (versión 3.6 o superior).
 
 Ejecuta el archivo principal:
 ```bash
-python calculator.py
+python Calculator.py
 ```
 ¡Empieza a realizar operaciones matemáticas desde la interfaz gráfica!
 
@@ -139,7 +141,7 @@ Asegúrate de tener Python instalado (versión 3.6 o superior).
 
 Ejecuta el archivo principal:
    ```bash
-   python Bloknote.py
+   python BlokNote.py
    ```
 ¡Comienza a escribir y guardar tus notas!
 
